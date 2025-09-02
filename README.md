@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbijarniya&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbijarniya" /> </p>
 
-- 🔭 I’m currently working on [fullstack web dedvelopment](https://elegant-speculoos-e50068.netlify.app/)
+- 🔭 I’m currently working on [fullstack web development](https://elegant-speculoos-e50068.netlify.app/)
 
 - 🌱 I’m currently learning **backend development**
 
